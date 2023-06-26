@@ -124,6 +124,15 @@
   margin-top: 0 !important;
 }
 
+.is-style-btn-1 {
+  margin-top: 18px;
+  justify-content: center;
+}
+
+.is-style-btn-1 a {
+  background-color: #EF6755;
+}
+
 .single-content p {
   margin-top: 18px;
   font-size: 18px;
@@ -132,4 +141,13 @@
 .linkcard {
   margin-top: 22px;
   margin-bottom: 22px;
+}
+
+.wp-block-buttons.is-layout-flex {
+  margin-top: 25px;
+  justify-content: center;
+}
+
+.wp-block-buttons a:hover {
+  opacity: 0.7;
 }

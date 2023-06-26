@@ -23,3 +23,8 @@ wp.blocks.registerBlockStyle('core/heading', {
   label: 'H3用-2',
 });
 
+wp.blocks.registerBlockStyle('core/button', {
+  name: 'btn-1',
+  label: 'ボタン1',
+});
+
